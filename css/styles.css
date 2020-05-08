@@ -147,7 +147,7 @@ section.white-section {
 		position: static;
 		transform: rotate(0deg);
 	}
-	#title {
+	#title .container-fluid {
 		text-align: center;
 	}
 }
